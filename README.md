@@ -1,13 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Behailu Weldeyohannes
 =============================================================================================================================================
-
-Web Developer | MuleSoft Developer
-----------------------------------
-
 I am a Software and MuleSoft Developer. With a strong foundation in programming languages, I can deliver efficient and effective solutions that meet clients' requirements. I am great at troubleshooting complex software issues and have the ability to think outside the box when it comes to creative solutions. In addition to my technical skills, I am also a committed human rights lawyer with experience working on various cases, ranging from gender-based violence to freedom of expression. I am excited to explore new opportunities and take on new challenges to develop my skills and grow professionally. If you are looking for a motivated and multifaceted Software or MuleSoft Developer, I would love to hear about potential opportunities.
+----------------------------------
 
 *   🌍  I'm based in Maryland
 *   <a href="https://behailu-weldeyohannes.github.io/portfolio/" target="_blank" rel="noreferrer">View my portfolio</a>
+   ----------------------------------
                   
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
