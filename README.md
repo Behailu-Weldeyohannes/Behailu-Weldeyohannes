@@ -20,11 +20,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="left">
 ## Connect with Me
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/BehailuW)
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/beha)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/behailu-weldeyohannes)
-</p>
- <a href="https://behailu-weldeyohannes.github.io/portfolio/" target="_blank" rel="noreferrer">View my portfolio</a>
+
  ==========================================
   <p align="left"> Skills <p/>  
   <p>JavaScript | React | Dataweave | Anypoint Studio | RAML | APIs | HTML | CSS | Figma | Adobe XD | Node | Vite | Git and Github | prettier | web components | PWA | Rest API | material ui | Index DB | Bootstrap | My SQL | MS SQL | Tailwind | webflow </p>
