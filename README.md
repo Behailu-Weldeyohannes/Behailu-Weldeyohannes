@@ -18,10 +18,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 ==========================================
 <p align="left">
-## Connect with Me
-
-
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/beha](https://www.linkedin.com/in/behail/))
 
  ==========================================
   <p align="left"> Skills <p/>  
