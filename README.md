@@ -20,8 +20,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="left">
 
  ==========================================
-  <p align="left"> Skills <p/>  
-  <p>JavaScript | React | Dataweave | Anypoint Studio | RAML | APIs | HTML | CSS | Figma | Adobe XD | Node | Vite | Git and Github | prettier | web components | PWA | Rest API | material ui | Index DB | Bootstrap | My SQL | MS SQL | Tailwind | webflow </p>
+ <p align="left"><strong>Skills</strong></p>  
+<p>
+   JavaScript | React | Python | Node | AWS Experience | Serverless programming | MongoDB | Dataweave | Anypoint Studio | RAML | APIs | HTML | CSS | Figma | Adobe XD | Vite | Git and GitHub | Prettier | Web Components | PWA | REST API | Material UI | IndexDB | Bootstrap | MySQL | MS SQL  | Java 
+</p>
 
                     
                  
