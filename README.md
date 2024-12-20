@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
    <strong>Software Developer:</strong>
 </p>
 <p>
-   ➡️ My expertise lies in developing and maintaining software applications using various programming languages and frameworks such as JavaScript, HTML, CSS, ReactJS, Python, and Java. I also have AWS Cloud Developer experience, including serverless programming. Additionally, I am skilled in working with databases such as MongoDB. I have a strong understanding of software development methodologies, including Agile and Waterfall, and have experience working in both large and small team environments. I am a quick learner and adapt to new technologies and software development processes with ease.
+   ➡️ My expertise lies in developing and maintaining software applications using various programming languages and frameworks such as Python, JavaScript, HTML, CSS, ReactJS, and Java. I also have AWS Cloud Developer experience, including serverless programming. Additionally, I am skilled in working with databases such as MongoDB. I have a strong understanding of software development methodologies, including Agile and Waterfall, and have experience working in both large and small team environments. I am a quick learner and adapt to new technologies and software development processes with ease.
 </p>
 <p>
    <strong>AWS Cloud Developer:</strong>
