@@ -9,9 +9,6 @@
   <a href="https://linkedin.com/in/behail/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-<!--   <a href="mailto:your-email@example.com">
-<!--     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> -->
-  </a> -->
 </p>
 
 ## About Me
@@ -27,25 +24,30 @@ I am an AI Engineer and Full-Stack Developer who specializes in building intelli
 
 ## 🛠️ My Tech Stack
 
+<!-- MODIFIED SECTION: I've integrated the new skills from Pathfinder AI into your existing stack. -->
 | Frontend           | Backend                | AI/Machine Learning      | Databases & Storage | Cloud & DevOps       |
 | ------------------ | ---------------------- | ------------------------ | ------------------- | -------------------- |
-| `React`            | `Python`               | `LLM Integration`        | `PostgreSQL`        | `AWS (EC2, S3, RDS)` |
-| `Next.js`          | `FastAPI`              | `OpenAI API`             | `MySQL`             | `Docker`             |
-| `TypeScript`       | `Node.js`              | `NLP (spaCy)`            | `Redis`             | `CI/CD`              |
-| `Tailwind CSS`     | `RESTful APIs`         | `Scikit-learn`           |                     | `Git & GitHub`       |
+| `React`            | `Python`               | **`RAG & LangChain`**    | `PostgreSQL`        | `AWS (EC2, S3, RDS)` |
+| `Next.js`          | `FastAPI`              | `LLM Integration`        | `MySQL`             | **`Docker & Docker Compose`** |
+| **`Streamlit`**    | `Node.js`              | **`Ollama (Local LLMs)`**| `Redis`             | `CI/CD`              |
+| `TypeScript`       | `RESTful APIs`         | `Prompt Engineering`     | **`Vector DB (Chroma)`** | `Git & GitHub`       |
+| `Tailwind CSS`     | `SQLAlchemy`           | `Scikit-learn`           |                     | `Linux`              |
+|                    |                        | `NLP (Pandas, spaCy)`    |                     |                      |
+<!-- END OF Tech Stack SECTION -->
 
 ---
 
 ## ✨ Featured Projects
 
-Even though the source code is private, you can see these projects live in action!
 
-| Project               | Description                                                                  | Live Link                                                              |
-| --------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| Project               | Description                                                                  | Live Link / Source Code                                                 |
+| --------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| **Pathfinder AI**       | An AI-driven legal tech platform to assist with U.S. immigration, featuring a private RAG pipeline, expert-system wizards, and an intelligent web scraper for automated compliance updates. Built with FastAPI, LangChain, Ollama, and Docker. | [Source Code](https://github.com/Behailu-Weldeyohannes/pathfinder-ai) 🦉 |
 | **ClarityHealth Tech**  | An AI-driven regulatory intelligence platform for healthcare compliance.       | [clarityhealthtech.tech](https://clarityhealthtech.tech/) 🚀             |
 | **Compliance Compass**| An ML tool that scores the legal risk of public data sources.                | [compliancecompass.tech](https://www.compliancecompass.tech/) 🚀   |
 | **ChannelBoostAI**    | A SaaS platform providing AI-driven content optimization for YouTube creators. | [channelboostai.com](https://www.channelboostai.com/) 🚀                 |
 | **Ethio AI Insights**   | An educational blog & YouTube channel on AI and Legal Tech.                  | [ethioai.tech](https://ethioai.tech/) 🚀                                 |
+<!-- END OF PROJECT SECTION -->
 
 ---
 
